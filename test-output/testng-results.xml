@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T17:18:31 IST" name="regression" finished-at="2024-09-03T17:18:35 IST" duration-ms="4513">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T17:18:31 IST" name="regression_test" finished-at="2024-09-03T17:18:35 IST" duration-ms="4513">
+      <class name="com.valueSystems.OpenBrowser">
+        <test-method signature="fblogin()[pri:0, instance:com.valueSystems.OpenBrowser@619713e5]" started-at="2024-09-03T17:18:31 IST" name="fblogin" finished-at="2024-09-03T17:18:35 IST" duration-ms="4451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fblogin -->
+      </class> <!-- com.valueSystems.OpenBrowser -->
+    </test> <!-- regression_test -->
+  </suite> <!-- regression -->
+</testng-results>

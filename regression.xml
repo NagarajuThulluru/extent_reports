@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="regression">
+	<test name="regression_test">
+
+		<classes>
+			<class name="com.valueSystems.OpenBrowser"></class>
+		</classes>
+
+
+	</test>
+
+
+</suite>
